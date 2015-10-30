@@ -1,0 +1,12 @@
+physics.py
+==========
+
+Implementations of various integrator methods.
+
+Includes:
+  - explicit Euler
+
+Tests
+-----
+
+$ ./physics.py -v
